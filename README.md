@@ -46,5 +46,5 @@ Using a 20-year simulation model, the project evaluates the cost-effectiveness o
   - Economic parameters for assessing feasibility.
 You can request it from me if you are interested in reading it.
  
-
+Note: Avoided adding (`Munich_weather.csv`) because of possible licensing.
 
