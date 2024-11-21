@@ -44,6 +44,7 @@ Using a 20-year simulation model, the project evaluates the cost-effectiveness o
   - Data preprocessing from TMY and household profiles.
   - Detailed equations governing PV, BESS, TESS, and HESS operations.
   - Economic parameters for assessing feasibility.
+You can request it from me if you are interested in reading it.
  
 
 
